@@ -1,0 +1,16 @@
+__superseded/
+_Bramka/
+_country_classification/
+_sample_WB_notebooks/
+literature_review/
+*.R
+*/_ss/
+*/GDPGriddedData.zip
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# large files
+data/_GDPGriddedData/GDP_PPP_30arcsec_v3.nc
+data/_GDPGriddedData/GDP_PPP_1990_2015_5arcmin_v2.nc
+data/

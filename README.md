@@ -1,7 +1,5 @@
 # Transportation Network Equity
-Analyzing country networks.
-
-Data files to be found at [this link](https://drive.google.com/drive/folders/1z9LoRXD_qmV9-dAq9TpejsfoBjdxlRTs?usp=sharing).
+Analyzing national transportation networks.
 
 This repo contains:
 ```
